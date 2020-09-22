@@ -1,4 +1,4 @@
 # oceanography-visualizations
 Examples of data visualizations created for oceanography research. Created using MatLab, Microsoft and other softwares.
 
-See PNG files of visualizations in the code repo or navigate to the wiki for easy viewing.
+Please navigate to the [wiki](https://github.com/evb123/oceanography-visualizations/wiki) for easy viewing.
